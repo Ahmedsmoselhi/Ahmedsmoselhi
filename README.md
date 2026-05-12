@@ -21,18 +21,20 @@ I am a software engineer passionate about building scalable backend architecture
 
 ---
 
-### 🚀 Featured Engineering Projects
+### 🚀 Engineering Portfolio
 
-* **[Pulsify Backend](https://github.com/Pulsify-dev/Backend):** Secure music streaming & social platform architecture featuring JWT/OAuth authentication, Redis rate-limiting, MongoDB aggregations, and a real-time event-driven notification engine using WebSockets (Socket.io).
-* **[Player Market Valuation Predictor](https://github.com/mahmouddattiaa/football-player-market-analyzer):** End-to-end PySpark data pipeline forecasting player market values using PySpark MLlib predictive models (Random Forest, GBT) and extensive feature engineering.
-* **[Luxora Hotel System](https://luxora.azurewebsites.net/):** A comprehensive full-stack hotel booking reservation platform built with ASP.NET Core MVC, SQL Server, and Entity Framework Core.
-* **[SearchEngine-VecDb](https://github.com/Ahmedsmoselhi/vec_db):** High-performance vector-based semantic search engine indexing up to 20 million records, heavily optimized for low RAM utilizing Memory Mapped (mmap) files.
+#### 🌐 Backend & Full-Stack Development
+* **[Pulsify](https://github.com/Pulsify-dev/Backend)**: Engineered a secure music streaming backend featuring JWT/OAuth authentication, Redis rate-limiting, MongoDB aggregations, and a real-time event-driven notification engine via WebSockets (Socket.io) and Firebase Cloud Messaging.
+* **[Luxora Hotel System](https://luxora.azurewebsites.net/)**: Built a full-stack hotel booking reservation platform with ASP.NET Core MVC, SQL Server, and Entity Framework Core, featuring role-based access control and a responsive UI.
+* **[Event Management System](https://github.com/Ahmedsmoselhi/SnapPlan)**: Developed an event platform using C# and .NET Framework, implementing RESTful APIs, SQL Server integration, and multi-role functionality (Admin, Organizer, User).
+* **[Serenity Gym](https://github.com/Ahmedsmoselhi/SerenityGym)**: Designed a comprehensive gym management platform handling memberships, scheduling, payments, and automated reporting with integrated court reservations (`C#`, `SQL`).
 
----
+#### 🧠 Data Engineering, AI & Search
+* **[Player Market Valuation Predictor](https://github.com/mahmouddattiaa/football-player-market-analyzer)**: Engineered an end-to-end PySpark data pipeline to forecast player market values using MLlib predictive models (Random Forest, GBT), VectorAssembler, and extensive EDA.
+* **[Vector-Based Semantic Search Engine](https://github.com/Ahmedsmoselhi/vec_db)**: Built a high-performance indexing system in Python to retrieve top-k results from datasets of up to 20 million records, heavily optimized for a strict 50MB RAM limit utilizing Memory Mapped (mmap) files.
+* **[Faculty ID Scanner](https://github.com/3essawyy/STEP_ID-Scanner)**: Automated student data entry by developing a computer vision pipeline that extracts names and IDs from faculty cards achieving high accuracy through SIFT alignment, CLAHE contrast enhancement, and SVM character classification.
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmedsmoselhi&show_icons=true&theme=algolia&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedsmoselhi&layout=compact&theme=algolia&hide_border=true" />
-</div>
+#### ⚙️ Systems & Software Engineering
+* **[Collaborative Text Editor](https://github.com/Ahmedsmoselhi/Collaborative-TextEditor)**: Engineered a real-time collaborative editor in Java (JavaFX) implementing CRDT algorithms, WebSocket communication, and RESTful APIs with multi-user access control.
+* **[OS Process Scheduler](https://github.com/Ahmedsmoselhi/OS_Scheduler)**: Implemented an OS process scheduler in C on Linux utilizing HPF, SRTN, and Round Robin algorithms with custom memory management and IPC optimization.
+* **[Digital Smart Watch](https://github.com/Ahmedsmoselhi/Smart-Watch-Microprocessor-Project)**: Programmed an embedded smartwatch system with RTC functionality, sensor integration, and a TFT display interface using an STM32 microcontroller and ARM Assembly.
